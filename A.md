@@ -1,4 +1,4 @@
-A. Đăng ký tên miền xịn cho cá nhân:
+# A. Đăng ký tên miền xịn cho cá nhân:
 
 1. Đăng ký domain xịn: đăng ký tên miền trên tenten với tên miền là nguyenmanhhieu.id.vn
 
