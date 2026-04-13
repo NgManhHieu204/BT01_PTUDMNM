@@ -57,3 +57,7 @@
 - Khi người dùng tương tác với nút bấm, trình duyệt sẽ gửi yêu cầu ngầm tới Nginx. Dữ liệu JSON trả về từ Node-RED (hoặc API Python ở trang Bonus) được bóc tách và chèn trực tiếp (DOM Manipulation) vào giao diện HTML mà không cần tải lại trang.
 
 <img width="1536" height="734" alt="image" src="https://github.com/user-attachments/assets/eed77be0-c284-4f1f-8c7d-a159af2bc2c9" />
+
+- Python API chạy song song
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7aa8183a-5368-4307-ac7e-320cd4ee5981" />
