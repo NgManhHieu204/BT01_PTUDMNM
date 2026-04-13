@@ -39,6 +39,7 @@ tự động chạy lệnh pip install để cài đặt Flask, và khai báo c�
 
  <img width="743" height="434" alt="image" src="https://github.com/user-attachments/assets/183adc39-e234-4e6a-b434-47fce286a676" />
 
-- Nâng cấp giao diện. -> Vì thư mục ./myweb được map trực tiếp vào Nginx, chỉ cần sửa file index.html rồi bấm lưu là web tự đổi ngay lập tức
+- Nâng cấp giao diện
 
-<img width="1561" height="935" alt="image" src="https://github.com/user-attachments/assets/3a5b9835-13df-4bd5-a744-811c043eac51" />
+ <img width="1865" height="973" alt="image" src="https://github.com/user-attachments/assets/93956610-3a2a-48fd-8167-3bad8378f1d0" />
+
